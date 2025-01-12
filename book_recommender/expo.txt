@@ -1,0 +1,1 @@
+Zip countains the nessecary excel files to run the python, place in same directory then run python file
